@@ -35,7 +35,7 @@ html{
 }
 
 body{
-  font:normal 75% Arial, Helvetica, sans-serif;
+  font:normal 75% Roboto, sans-serif;
 }
 
 canvas{
@@ -73,7 +73,7 @@ top: 30%;
 left: 50%;
 transform: translate(-50%,-50%);
 text-align: center;
-font-size: 650%;
+font-size: 84px;
 color: white;
 }
 
@@ -86,7 +86,7 @@ top: 40%;
 left: 50%;
 transform: translate(-50%,-50%);
 text-align: center;
-font-size: 200%;
+font-size: 24px;
 color: white;
 }
 
@@ -99,6 +99,6 @@ top: 45%;
 left: 50%;
 transform: translate(-50%,-50%);
 text-align: center;
-font-size: 150%;
+font-size: 16px;
 color: white;
 }
